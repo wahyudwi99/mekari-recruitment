@@ -1,0 +1,4 @@
+*.env
+*.csv
+vector_models
+__pycache__
