@@ -14,7 +14,7 @@ higher recommended) - **Git** (for cloning the repository)
 ### 1. Clone the repository
 
 ``` bash
-git clone https://github.com/wahyudwi99/your-repo-name.git
+git clone https://github.com/wahyudwi99/mekari-recruitment.git
 cd your-repo-name
 ```
 
